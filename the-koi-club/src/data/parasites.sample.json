@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Trichodina",
+    "image_url": "/images/parasites/trichodina.jpg",
+    "symptoms": [
+      "Flashing",
+      "Heavy slime coat",
+      "Grey patches"
+    ],
+    "treatments": [
+      {
+        "brand": "Kusuri",
+        "product": "Pro Formalin & Malachite Green",
+        "dosage": "10ml / 1000L",
+        "recommended": true
+      },
+      {
+        "brand": "Colombo",
+        "product": "FMC-50",
+        "dosage": "As directed",
+        "recommended": false
+      },
+      {
+        "brand": "NT Labs",
+        "product": "FMG Mix",
+        "dosage": "Standard course",
+        "recommended": false
+      }
+    ]
+  },
+  {
+    "name": "Costia",
+    "image_url": "/images/parasites/costia.jpg",
+    "symptoms": [
+      "Lethargy",
+      "Clamped fins",
+      "Flashing"
+    ],
+    "treatments": [
+      {
+        "brand": "Kusuri",
+        "product": "Formalin & Malachite Green",
+        "dosage": "10ml / 1000L",
+        "recommended": true
+      },
+      {
+        "brand": "NT Labs",
+        "product": "FMG Mix",
+        "dosage": "As directed",
+        "recommended": false
+      }
+    ]
+  }
+]
